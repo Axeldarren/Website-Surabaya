@@ -1,4 +1,4 @@
-# Website
+# Surabaya Static Webpage
 This repository contains the final project for the **Dicoding Kelas Belajar Dasar Pemrograman Web**. The project is a static webpage that showcases a profile of **Surabaya**, a city rich in history, culture, and culinary diversity. The website provides information about Surabaya’s historical background, geographical features, and popular culinary dishes.
 
 ## Features
