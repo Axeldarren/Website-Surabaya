@@ -27,6 +27,11 @@ This repository contains the final project for the **Dicoding Kelas Belajar Dasa
 - **Geografis (Geography)**: Provides information on Surabaya's location and its importance as a major port city.
 - **Kuliner (Culinary)**: Highlights four traditional dishes from Surabaya: Rujak Cingur, Soto Ayam Lamongan, Lontong Balap, and Rawon.
 
+- My Website: https://axeldarren.github.io/Website-Surabaya
+![My Website](Dokumentasi/Surabaya-Website.jpg)
+- Rating Submission
+![Rating](Dokumentasi/Rating.jpg)
+
 ## Credit
 - Project created as part of Dicoding Kelas Belajar Dasar Pemrograman Web Final Task.
 - All content and images used are for educational purposes only.
